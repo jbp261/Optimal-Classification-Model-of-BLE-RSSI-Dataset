@@ -5,11 +5,9 @@ The aim of the project is to develop optimal classifiers to predict the position
 
 ### Motivation
 
-The motivation for the project is to develop big data analysis tool for smart cities and help people guide indoors using machine learning approach.\
+The motivation for the project is to develop big data analysis tool for smart cities and help people guide indoors using machine learning approach.
 
 ### Bild Status
-
-![Wercker](https://img.shields.io/wercker/ci/wercker/docs.svg)
 
 ![Scrutinizer](https://img.shields.io/scrutinizer/g/filp/whoops.svg)
 
@@ -54,4 +52,4 @@ The code was not directly copied from the following referances without proper in
 - [BLE RSSI Dataset for Indoor localization and Navigation Data Set ](https://archive.ics.uci.edu/ml/datasets/BLE+RSSI+Dataset+for+Indoor+localization+and+Navigation "BLE RSSI Dataset for Indoor localization and Navigation Data Set ")
 
 ### License
-[MIT @ JBP261](https://choosealicense.com/licenses/mit/ "MIT @ JBP261")}
+[MIT @ JBP261](https://choosealicense.com/licenses/mit/ "MIT @ JBP261")
