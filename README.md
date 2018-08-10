@@ -3,22 +3,22 @@
 ### Project Overview
 The aim of the project is to develop optimal classifiers to predict the position of the user based on the RSSI readings from thirteen iBeacon devices. The BLE RSSI labeled dataset was used to train different classifiers and evaluate their performance.
 
-###Motivation\
+### Motivation
 
 The motivation for the project is to develop big data analysis tool for smart cities and help people guide indoors using machine learning approach.\
 
-###Bild Status
+### Bild Status
 
-![Wercker](https://img.shields.io/wercker/ci/wercker/docs.svg)\
+![Wercker](https://img.shields.io/wercker/ci/wercker/docs.svg)
 
-![Scrutinizer](https://img.shields.io/scrutinizer/g/filp/whoops.svg)\
+![Scrutinizer](https://img.shields.io/scrutinizer/g/filp/whoops.svg)
 
-![CocoaPods](https://img.shields.io/cocoapods/dw/AFNetworking.svg)\
+![CocoaPods](https://img.shields.io/cocoapods/dw/AFNetworking.svg)
 
-###Tech/Framework used
-The project was done using python GUI [Anaconda](https://anaconda.org/anaconda/python "Anaconda").\
+### Tech/Framework used
+The project was done using python GUI [Anaconda](https://anaconda.org/anaconda/python "Anaconda").
 
-###Features
+### Features
 - Logistic Regression
 - Decision Tree
 - Random Forest
@@ -29,7 +29,7 @@ The project was done using python GUI [Anaconda](https://anaconda.org/anaconda/p
 - SelectKbest
 - Voting
 
-###Dataset
+### Dataset
 - Labeled dataset
 -Number of variables: 15
 -Number of data points: 1420
@@ -37,12 +37,12 @@ The project was done using python GUI [Anaconda](https://anaconda.org/anaconda/p
 -Number of variables: 15
 -Number of data points: 5191
 
-###Code Example
+### Code Example
 ```python
 #The following code predicts the best outcome of the input
 Prediction = voting_clf.predict(Input)
 ```
-###References
+### References
 The following book and python machine learning library manuals were followed to complete the projcet.
 The code was not directly copied from the following referances without proper inline citation.
 - [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://benjaminliuweb.files.wordpress.com/2016/12/oreilly-hands-on-machine-learning-with-scikit-learn-and-tensorflow-1491962291.pdf  "Hands-On Machine Learning with Scikit-Learn and TensorFlow")
@@ -53,5 +53,5 @@ The code was not directly copied from the following referances without proper in
 - [Enabling Cognitive Smart Cities Using Big Data and Machine Learning: Approaches and Challenges](https://ieeexplore.ieee.org/document/8291121/ "Enabling Cognitive Smart Cities Using Big Data and Machine Learning: Approaches and Challenges")
 - [BLE RSSI Dataset for Indoor localization and Navigation Data Set ](https://archive.ics.uci.edu/ml/datasets/BLE+RSSI+Dataset+for+Indoor+localization+and+Navigation "BLE RSSI Dataset for Indoor localization and Navigation Data Set ")
 
-###License
+### License
 [MIT @ JBP261](https://choosealicense.com/licenses/mit/ "MIT @ JBP261")}
